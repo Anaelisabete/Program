@@ -1,0 +1,11 @@
+/home/ctnoite/Program/bin/Debug/netcoreapp3.0/Program
+/home/ctnoite/Program/bin/Debug/netcoreapp3.0/Program.deps.json
+/home/ctnoite/Program/bin/Debug/netcoreapp3.0/Program.runtimeconfig.json
+/home/ctnoite/Program/bin/Debug/netcoreapp3.0/Program.runtimeconfig.dev.json
+/home/ctnoite/Program/bin/Debug/netcoreapp3.0/Program.dll
+/home/ctnoite/Program/bin/Debug/netcoreapp3.0/Program.pdb
+/home/ctnoite/Program/obj/Debug/netcoreapp3.0/Program.csprojAssemblyReference.cache
+/home/ctnoite/Program/obj/Debug/netcoreapp3.0/Program.AssemblyInfoInputs.cache
+/home/ctnoite/Program/obj/Debug/netcoreapp3.0/Program.AssemblyInfo.cs
+/home/ctnoite/Program/obj/Debug/netcoreapp3.0/Program.dll
+/home/ctnoite/Program/obj/Debug/netcoreapp3.0/Program.pdb

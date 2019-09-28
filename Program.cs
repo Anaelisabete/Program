@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ctnoite
+namespace Program
 {
     class Program
     {
